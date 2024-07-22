@@ -9,9 +9,9 @@
   <url>http://maven.apache.org</url>
   
   <properties>
-	<sonar.host.url>http://15.206.128.86:9000/</sonar.host.url>
-	<sonar.login>admin</sonar.login>
-	<sonar.password>Nitin</sonar.password>
+      <java.version>11</java.version>
+      <spring.boot.version>2.5.4</spring.boot.version>
+      <junit.jupiter.version>5.7.0</junit.jupiter.version>
   </properties>
   <dependencies>
     <dependency>
