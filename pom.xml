@@ -12,6 +12,11 @@
       <spring.boot.version>2.5.4</spring.boot.version>
       <junit.jupiter.version>5.7.0</junit.jupiter.version>
   </properties>
+  <properties>
+	<sonar.host.url>http://15.206.128.86:9000/</sonar.host.url>
+	<sonar.login>admin</sonar.login>
+	<sonar.password>Nitin</sonar.password>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
