@@ -7,11 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>todo-app</name>
   <url>http://maven.apache.org</url>
-  <properties>
-      <java.version>11</java.version>
-      <spring.boot.version>2.5.4</spring.boot.version>
-      <junit.jupiter.version>5.7.0</junit.jupiter.version>
-  </properties>
+  
   <properties>
 	<sonar.host.url>http://15.206.128.86:9000/</sonar.host.url>
 	<sonar.login>admin</sonar.login>
