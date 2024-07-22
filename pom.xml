@@ -104,13 +104,13 @@
   <distributionManagement>  
 	<repository>
 		<id>nexus</id>
-		<name>Ashok IT Releases Nexus Repo</name>
+		<name>ashokit-release</name>
 		<url>http://3.110.107.213:8081/repository/ashokit-release/</url>
 	</repository>
 	
 	<snapshotRepository>
 		<id>nexus</id>
-		<name>Ashok IT Snapshots Nexus Repo</name>
+		<name>ashokit-snapshot</name>
 		<url>http://3.110.107.213:8081/repository/ashokit-snapshot/</url>
 	</snapshotRepository>	
 </distributionManagement>
